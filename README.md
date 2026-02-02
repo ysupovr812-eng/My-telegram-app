@@ -1,2 +1,0 @@
-# My-telegram-app
-App
